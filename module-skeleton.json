@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-extension-marketplace-nextjs",
+  "capabilityKey": "liberusoftware/module-cms-extension-marketplace",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-extension-marketplace-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/extension-marketplace.md",
+  "presentationPlan": "projects/cms/nextjs/extension-marketplace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
